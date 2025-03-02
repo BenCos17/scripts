@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAT Track rel=stylesheet",
+                "track_id": "rel=stylesheet"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3,
+                        25
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAT Track EGGXZOZX",
+                "track_id": "EGGXZOZX"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -390,
+                        40
+                    ],
+                    [
+                        -113,
+                        2
+                    ],
+                    [
+                        -20,
+                        62
+                    ],
+                    [
+                        -20,
+                        60
+                    ],
+                    [
+                        -20,
+                        51
+                    ],
+                    [
+                        -20,
+                        30
+                    ],
+                    [
+                        -20,
+                        50
+                    ],
+                    [
+                        -20,
+                        30
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAT Track EGGXZOZX",
+                "track_id": "EGGXZOZX"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -390,
+                        40
+                    ],
+                    [
+                        -113,
+                        2
+                    ],
+                    [
+                        -20,
+                        49
+                    ],
+                    [
+                        -24,
+                        16
+                    ],
+                    [
+                        -24,
+                        18
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAT Track CZQXZQZX",
+                "track_id": "CZQXZQZX"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -400,
+                        40
+                    ],
+                    [
+                        -10,
+                        3
+                    ],
+                    [
+                        -50,
+                        53
+                    ],
+                    [
+                        -50,
+                        52
+                    ],
+                    [
+                        -50,
+                        51
+                    ],
+                    [
+                        -50,
+                        50
+                    ],
+                    [
+                        -50,
+                        49
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAT Track CZQXZQZX",
+                "track_id": "CZQXZQZX"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -400,
+                        40
+                    ],
+                    [
+                        -10,
+                        3
+                    ],
+                    [
+                        -50,
+                        48
+                    ],
+                    [
+                        -50,
+                        47
+                    ],
+                    [
+                        -50,
+                        46
+                    ],
+                    [
+                        -60,
+                        42
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAT Track CZQXZQZX",
+                "track_id": "CZQXZQZX"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -400,
+                        40
+                    ],
+                    [
+                        -10,
+                        3
+                    ],
+                    [
+                        -50,
+                        43
+                    ],
+                    [
+                        -25,
+                        11
+                    ],
+                    [
+                        -25,
+                        6
+                    ]
+                ]
+            }
+        }
+    ]
+}
