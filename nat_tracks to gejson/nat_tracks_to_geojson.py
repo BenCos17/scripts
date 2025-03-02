@@ -29,14 +29,9 @@ tracks = re.split(r'\n(?=\d{6} [A-Z]+)', data)
 for track in tracks:
     lines = track.splitlines()
     track_id = lines[0].split()[1]  # Extract track identifier (e.g., 'A')
-    waypoints = []
-
-    # Extract waypoint sequences from the track
-    for line in lines:
-        match = re.search(r'(\d{2})/(\d{2,3})', line)
-        if match:
-            waypoint = match.groups()
-            waypoints.append(waypoint)
+    
+    # Extract waypoint sequences from the track using re.findall
+    waypoints = pattern.findall('\n'.join(lines))
 
     # Convert waypoints to coordinates
     coordinates = [convert_to_coordinates(wp) for wp in waypoints]
