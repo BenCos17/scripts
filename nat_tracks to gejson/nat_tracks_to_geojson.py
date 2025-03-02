@@ -16,8 +16,8 @@ pattern = re.compile(r'(\d{2})/(\d{2,3})')
 # Function to convert waypoint to [longitude, latitude]
 def convert_to_coordinates(waypoint):
     lat, lon = waypoint
-    latitude = int(lat)
-    longitude = -int(lon)  # Negative for west longitude
+    latitude = float(lat)
+    longitude = -float(lon)  # Negative for west longitude
     return [longitude, latitude]
 
 # Initialize a list to hold GeoJSON features
